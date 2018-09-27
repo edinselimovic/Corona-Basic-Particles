@@ -6,6 +6,8 @@ This application shows basic particles effects that can be achieved with usage o
 Library can be found on this link https://github.com/GymbylCoding/CBEffects.
 
 Video below is showing what this showcase application is about
+
+
 ![](docs/CoronaBasicParticles.gif)
 
 
